@@ -1,0 +1,4 @@
+rootProject.name = "DogBreed"
+include ':app'
+include ':core'
+include ':dogBreed'

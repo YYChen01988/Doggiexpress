@@ -1,0 +1,5 @@
+<resources>
+    <string name="details_page">User Details</string>
+    <string name="breed_type">Types of Breed</string>
+    <string name="subtitle">Please click a breed to see more photos</string>
+</resources>
