@@ -2,7 +2,7 @@
 Display a list of breeds, user can select any breed to see 10 random pictures of the dogs with a top picture and breed name with it.
 
 ## 1. Core
-This can be accessed by all modules. Inludes utils and abstractions.
+This can be accessed by all modules. Includes utils and abstractions.
 
 ## 2. app
 With main application and injections and access to all modules. 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogBreed.iml" filepath="$PROJECT_DIR$/.idea/modules/DogBreed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DogBreed.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DogBreed.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DogBreed.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DogBreed.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.iml" filepath="$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.iml" />
+    </modules>
+  </component>
+</project>
