@@ -4,8 +4,17 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DogBreed.iml" filepath="$PROJECT_DIR$/.idea/modules/DogBreed.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DogBreed.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DogBreed.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DogBreed.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DogBreed.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DogBreed.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DogBreed.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DogBreed.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DogBreed.app.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DogBreed.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DogBreed.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DogBreed.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DogBreed.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DogBreed.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DogBreed.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/DogBreed.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/DogBreed.core.unitTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.iml" filepath="$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/dogBreed/DogBreed.dogBreed.unitTest.iml" />
     </modules>
   </component>
 </project>
